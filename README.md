@@ -655,7 +655,7 @@ href="Tic%20Tac%20Toe%20Game%20using%20Pygame.fld/colorschememapping.xml">
    Name="Smart Link"/>
  </w:LatentStyles>
 </xml><![endif]-->
-<style>
+
 <!--
  /* Font Definitions */
  @font-face
@@ -997,7 +997,7 @@ ol
 ul
 	{margin-bottom:0cm;}
 -->
-</style>
+
 <!--[if gte mso 10]>
 <style>
  /* Style Definitions */
